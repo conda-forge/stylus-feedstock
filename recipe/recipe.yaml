@@ -1,5 +1,5 @@
 context:
-  version: 0.63.0
+  version: "0.64.0"
 
 package:
   name: stylus
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/stylus/-/stylus-${{ version }}.tgz
-  sha256: 07c65f1f26f63efe22ad9ecf858aa961468b7604071f8d2fe81620c9235b698e
+  sha256: adf0640453d8cc37cfc7997a53a468917b37dceb1b48774545abd6598b7ecd96
 
 build:
   number: 0
